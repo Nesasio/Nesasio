@@ -1,4 +1,8 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Concert+One&size=24&duration=2000&pause=500&color=DA1717&multiline=true&width=435&height=100&lines=Ansh+Saxena;Engineering+Student+%7C+Tech+Enthusiast;Python+Development+%7C+ML%2FDL+%7C+Robotics)](https://git.io/typing-svg)
+
+* 📖 Pursuing BTech in Mechanical Engineering @ [Indian Institute of Technology, Patna](https://www.iitp.ac.in/).
+* 🔭 Currently working on **ML** and **Forecasting**.
+* 💡 Would love to collaborate on innovative ideas and creative projects.
 
 <!--
 **Nesasio/Nesasio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
