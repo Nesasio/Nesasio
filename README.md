@@ -2,7 +2,7 @@
 
 * 📖 Pursuing BTech in Mechanical Engineering @ [Indian Institute of Technology, Patna](https://www.iitp.ac.in/).
 * 🔭 Currently working on **ML** and **Forecasting**.
-* 🌱 Learning the art of **Deep Learning**, **Pytorch** and **Neural Networks**.
+* 🌱 Learning the art of **Deep Learning**, **[Pytorch](https://pytorch.org/)** and **Neural Networks**.
 * 💡 Would love to collaborate on innovative ideas and creative projects.
 
 <!--
