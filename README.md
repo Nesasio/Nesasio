@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Hammersmith+One&size=16&pause=1000&color=3DBEF7&center=true&width=600&lines=Wir+werden+gegen+unser+Schicksal+ank%C3%A4mpfen)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Hammersmith+One&size=16&pause=1000&color=3DBEF7&center=true&width=600&lines=Wir+werden+gegen+unser+schicksal+ank%C3%A4mpfen)](https://git.io/typing-svg)
