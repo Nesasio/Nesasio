@@ -3,7 +3,7 @@
 * 📖 Pursuing BTech in Mechanical Engineering @ [Indian Institute of Technology, Patna](https://www.iitp.ac.in/).
 * 🔭 Currently exploring **Deep Learning** and working with **Neural Networks**.
 * 🌱 Learning the art of **Computer Vision** and **[Pytorch](https://pytorch.org/)**.
-* 💡 Would love to collaborate with like minded people on innovative ideas and creative projects.
+* 💡 Would love to collaborate with like minded people to work on innovative ideas and creative projects.
 
 <!--
 **Nesasio/Nesasio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
