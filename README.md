@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Concert+One&size=24&duration=2000&pause=500&color=DA1717&multiline=true&width=435&height=100&lines=Ansh+Saxena;Engineering+Student+%7C+Tech+Enthusiast;Python+Development+%7C+ML%2FDL+%7C+Robotics)](https://git.io/typing-svg)
 
 * 📖 Pursuing BTech in Mechanical Engineering @ [Indian Institute of Technology, Patna](https://www.iitp.ac.in/).
-* 🔭 Currently exploring **Deep Learning** and working with **Neural Networks**.
+* 🔭 Currently exploring **Deep Learning** and working on **Robotics** and **Neural Networks**.
 * 🌱 Learning the art of **Computer Vision** and **[Pytorch](https://pytorch.org/)**.
 * 💡 Would love to collaborate with like minded people to work on innovative ideas and creative projects.
 
