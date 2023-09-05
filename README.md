@@ -4,6 +4,7 @@
 * 🔭 Currently exploring **Deep Learning** and working on **Robotics** and **Neural Networks**.
 * 🌱 Learning the art of **Computer Vision** and **[Pytorch](https://pytorch.org/)**.
 * 💡 Would love to collaborate with like minded people to work on innovative ideas and creative projects.
+* 📫 Contact me via email or LinkedIn
 
 <!--
 **Nesasio/Nesasio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
