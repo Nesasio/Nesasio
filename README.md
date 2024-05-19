@@ -1,10 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Concert+One&size=24&duration=2000&pause=500&color=DA1717&multiline=true&width=435&height=100&lines=Ansh+Saxena;Engineering+Student+%7C+Tech+Enthusiast;Python+Development+%7C+ML%2FDL+%7C+Robotics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&weight=800&size=24&duration=1500&pause=500&color=AE0F08&vCenter=true&multiline=true&random=false&width=600&height=100&lines=Ansh+Saxena;STEM+Alumnus+%7C+Aerodynamics+Fan;ML%2FDL+%7C+Robotics+%7C+Practical+Programming)](https://git.io/typing-svg)
 
-* 📖 Pursuing Bachelor's in Mechanical Engineering @ [Indian Institute of Technology, Patna](https://www.iitp.ac.in/).
+* 📖 Bachelor's in Mechanical Engineering @ [Indian Institute of Technology, Patna](https://www.iitp.ac.in/).
 * 🔭 Currently exploring **Deep Learning** and working on **Robotics** and **Neural Networks**.
 * 🌱 Learning the art of **Computer Vision** and **[Pytorch](https://pytorch.org/)**.
 * 💡 Would love to collaborate with like minded people to work on innovative ideas and creative projects.
 * 📫 Contact me via email or [LinkedIn](https://www.linkedin.com/in/nesasio/).
+* ⚡ Fact: I like to build model planes. Want to use computer vision and DL to build 'sentient' UAVs.
 
 <!--
 **Nesasio/Nesasio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,4 +24,4 @@ Here are some ideas to get you started:
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Hammersmith+One&size=16&pause=1000&color=3DBEF7&center=true&width=600&lines=Wir+werden+gegen+unser+schicksal+ank%C3%A4mpfen)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=2000&color=AE0F08&center=true&vCenter=true&random=false&width=435&lines=Blood+and+Darkness)](https://git.io/typing-svg)
