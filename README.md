@@ -5,7 +5,7 @@
 * 🌱 Learning the art of **Computer Vision** and **[Pytorch](https://pytorch.org/)**.
 * 💡 Would love to collaborate with like minded people to work on innovative ideas and creative projects.
 * 📫 Contact me via email or [LinkedIn](https://www.linkedin.com/in/nesasio/).
-* ⚡ Fact: I like to build model planes. Want to use computer vision and DL to build 'sentient' UAVs.
+* ⚡ I like to build model planes. Want to use computer vision and DL to build 'sentient' UAVs.
 
 <!--
 **Nesasio/Nesasio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
