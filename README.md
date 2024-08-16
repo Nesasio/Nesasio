@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&weight=800&size=24&duration=1500&pause=500&color=AE0F08&vCenter=true&multiline=true&random=false&width=600&height=100&lines=Ansh+Saxena;STEM+Alumnus+%7C+Aerodynamics+Fan;ML%2FDL+%7C+Robotics+%7C+Practical+Programming)](https://git.io/typing-svg)
 
 * 📖 Bachelor's in Mechanical Engineering @ [Indian Institute of Technology, Patna](https://www.iitp.ac.in/).
-* 🔭 Currently exploring **Deep Learning** and working on **Robotics** and **Neural Networks**.
-* 🌱 Learning the art of **Computer Vision** and **[Pytorch](https://pytorch.org/)**.
+* 🔭 Work full time at Hexagon RnD.
+* 🌱 Worked with **AI/ML**, **Computer Vision**, and **[Pytorch](https://pytorch.org/)**.
 * 💡 Would love to collaborate with like minded people to work on innovative ideas and creative projects.
 * 📫 Contact me via email or [LinkedIn](https://www.linkedin.com/in/nesasio/).
 * ⚡ I like to build model planes. Want to use computer vision and DL to build 'sentient' UAVs.
